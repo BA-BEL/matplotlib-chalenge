@@ -1,2 +1,2 @@
-# matplotlib-chalenge
+# matplotlib-challenge
 Module 5 Challenge
